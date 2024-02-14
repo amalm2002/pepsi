@@ -47,7 +47,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 515px;
+    margin-left: 585px;
 }
 
 .top-btn button {
@@ -104,7 +104,8 @@ video {
     border: 0;
     margin-top: -159px;
     position: absolute;
-    margin-left: 430px;
+    /* margin-left: 430px; */
+    margin-left: 550px;
 }
 
 .image1-btn button a {
@@ -137,7 +138,8 @@ video {
 .img-sub img {
     width: 950px;
     height: 180px;
-    margin-left: 190px;
+    margin-left: 240px;
+    /* margin-left: 190px; */
     position: absolute;
     top: 30px;
 }
